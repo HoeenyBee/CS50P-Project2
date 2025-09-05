@@ -13,4 +13,4 @@ cd name-of-repo-folder
 python playback.py
 ```
 
-# Type your input and press Enter. The program puts 3 dots in place of spaces.
+### Type your input and press Enter. The program puts 3 dots in place of spaces.
